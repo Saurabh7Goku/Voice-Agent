@@ -1,0 +1,7 @@
+{
+  "name": "Real-time Voice Agent",
+  "description": "An advanced voice agent that enables real-time, low-latency conversational AI. Users can speak directly to the agent and receive spoken responses instantly, creating a natural and fluid interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
