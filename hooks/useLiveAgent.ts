@@ -201,7 +201,7 @@ export const useLiveAgent = () => {
           inputAudioTranscription: {},
           outputAudioTranscription: {},
           speechConfig: {
-            voiceConfig: { prebuiltVoiceConfig: { voiceName: 'Kore' } },
+            voiceConfig: { prebuiltVoiceConfig: { voiceName: 'Aditi' } },
           },
           systemInstruction: 'You are a friendly and empathetic voice agent. Your responses should be conversational, natural, and concise.',
         },
